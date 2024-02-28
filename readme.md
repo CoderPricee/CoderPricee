@@ -7,7 +7,7 @@
 
                     
 
-<p align="left">I am a skilled and versatile Software Engineer with a strong foundation in Java, JavaScript, and TypeScript, along with proficiency in C++, C, and MySQL. My experience spans both frontend and backend development, creating dynamic web applications using Spring Framework, Spring Boot, and Angular. I excel in RESTful API design, Azure, AWS, and version control with Git. I've contributed to various projects, such as LuxHub, an ecommerce platform. With a Bachelor's in Computer Science Engineering and a proactive role in coding and sports clubs, I am dedicated to innovative solutions and collaborative success.</p>
+<p align="left">I am a skilled and versatile Software Engineer with a strong foundation in Java, JavaScript, and TypeScript, along with proficiency in C++  and MySQL. My experience spans both frontend and backend development, creating dynamic web applications using Spring Framework, Spring Boot, and Angular. I excel in RESTful API design, Azure, AWS, and version control with Git. I've contributed to various projects, such as LuxHub, an ecommerce platform. With a Bachelor's in Computer Science Engineering and a proactive role in coding and sports clubs, I am dedicated to innovative solutions and collaborative success.</p>
 <p align="left"> 
   <a href="https://github.com/CoderPricee?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CoderPricee?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
